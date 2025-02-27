@@ -1,4 +1,4 @@
-
+Xenakis: Ensemble Music, Vol. 1
 ---
 1996 - Mode Records ⭐⭐⭐
 
@@ -30,5 +30,5 @@
 - 有那么一瞬间觉得自己在玩长号冠军 唱这个需要颜艺吗
 
 
-# Review
+## 简评
 你太现代了@xenakis.jpg
