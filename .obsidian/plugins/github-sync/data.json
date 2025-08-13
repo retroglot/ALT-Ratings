@@ -1,7 +1,7 @@
 {
   "remoteURL": "git@github.com:retroglot/ALT-Ratings.git",
   "gitLocation": "D:\\Git\\cmd\\",
-  "syncinterval": 0,
+  "syncinterval": 2,
   "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }
