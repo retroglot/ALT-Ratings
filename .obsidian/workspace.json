@@ -15,7 +15,7 @@
               "state": {
                 "file": "Popular/幸福城市里总有人不幸福.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "幸福城市里总有人不幸福"
@@ -170,10 +170,10 @@
   },
   "active": "efb25948f3bc0d1e",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
     "Popular/Garlics & Onions.md",
-    "Art/Debussy_Suite_Bergamasque.md",
     "Popular/幸福城市里总有人不幸福.md",
+    "新建 文本文档.txt",
+    "Art/Debussy_Suite_Bergamasque.md",
     "Popular/橙月.md",
     "Popular/Undercurrent.md",
     "未命名",
