@@ -1,6 +1,4 @@
-
----
-
+# 2014 Forest Hills Drive
 ⭐⭐⭐⭐⭐ - J.Cole
 
 | 评分  | 曲名                 | 备注  |
