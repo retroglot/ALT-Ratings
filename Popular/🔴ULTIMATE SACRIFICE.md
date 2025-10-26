@@ -11,7 +11,7 @@
 | 8.4 | Wings of Justice          | ⭐ 于是开始起飞          |
 | 8.0 | The Shadow Within         | ✨                 |
 | 7.6 | With Sympathy             |                   |
-| 8.2 | Wherever You Are          | ✨                 |
+| 8.1 | Wherever You Are          | ✨                 |
 | 7.6 | Rising Infuriation        |                   |
 | 8.9 | Brutal Spiral of Emotions | ❤️⭐               |
 | 8.9 | Ultimate Sacrifice        | ❤️⭐               |
