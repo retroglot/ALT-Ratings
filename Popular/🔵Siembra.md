@@ -8,11 +8,11 @@
 | --- | ---------------- | ------ |
 | 8.1 | Plástico         | ✨结尾很燃！ |
 | 7.3 | Buscando Guayaba |        |
-|     | Pedro Navaja     |        |
+| 7.4 | Pedro Navaja     |        |
 |     | Maria Lionza     |        |
 |     | Ojos             |        |
-|     | Dime             |        |
-|     | Siembra          |        |
+| 7.3 | Dime             |        |
+| 7.5 | Siembra          |        |
 
 
 
