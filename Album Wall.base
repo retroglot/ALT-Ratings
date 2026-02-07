@@ -6,9 +6,11 @@ views:
     name: Album Wall
     filters:
       and:
-        - file.inFolder("⪨ Music/Popular")
         - file.name != "{示例}"
-        - file.inFolder("⪨ Music/Art")
+        - or:
+            - file.inFolder("⪨ Music/Art")
+            - file.inFolder("⪨ Music/Popular")
+        - "!Album.isEmpty()"
     order:
       - Album
       - Artist

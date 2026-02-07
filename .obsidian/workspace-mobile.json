@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "5593966801382c21",
+    "type": "split",
+    "children": [
+      {
+        "id": "44e63046bb3a2155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03de9aa325d7d3fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ccef1bd95a37d4e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0612b8a5540dbdf1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "e1665c56bb010a1a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "5f915225a298873c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "9667c31f8841aa2b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "f5661632d3930b58",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "236ae3c8bdae089a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cd31643bbcc3522a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "99fafefeb0aaf915",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "3ee438442840d8b8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "README.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "186346067274e0b7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "03de9aa325d7d3fe",
+  "lastOpenFiles": [
+    "⪨ Series/(2025) 자백의 대가.md",
+    "Album Wall.base",
+    "⪨ Music/Art/Debussy_Suite_Bergamasque.md",
+    "⪨ Music/Popular/🔵八度空间.md",
+    "🔵示例🔵.md",
+    "⪨ Music/Single Songs/Talk To Me.md",
+    "⪨ Music/Single Songs/Dance The Pain Away.md",
+    "⪨ Music/Popular/🔵危险世界.md",
+    "⪨ Music/Popular/🔵Stupid Pop Songs.md",
+    "⪨ Music/Popular/🔵Siembra.md",
+    "⪨ Music/Popular/🔵Lotus.md",
+    "⪨ Music/Popular/🔵Fly from Here - Return Trip.md",
+    "⪨ Music/Popular/🔵Ethereal Horizons.md",
+    "⪨ Music/Popular/🔵A Night at the Opera.md",
+    "⪨ Music/Popular/范特西.md",
+    "⪨ Music/Popular/橙月.md",
+    "⪨ Music/Popular/才二十三.md",
+    "⪨ Music/Popular/幸福城市里总有人不幸福.md",
+    "⪨ Music/Popular/Woodland.md",
+    "⪨ Music/Popular/Undercurrent.md",
+    "⪨ Music/Popular/Ultimate Sacrifice.md",
+    "⪨ Music/Popular/Saviors.md",
+    "⪨ Music/Popular/Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds).md",
+    "⪨ Music/Popular/No. Eleven.md",
+    "⪨ Music/Popular/Last Winter.md",
+    "⪨ Music/Popular/Garlics & Onions.md",
+    "covers/范特西.png",
+    "covers/橙月.png",
+    "covers/才二十三.png",
+    "covers/幸福城市里总有人不幸福.png",
+    "covers/危险世界.png",
+    "covers/八度空间.png",
+    "covers/Woodland.png",
+    "covers/Undercurrent.png",
+    "covers/Ultimate Sacrifice.png",
+    "covers/Stupid Pop Songs.png",
+    "⪨ Series",
+    "⪨ Music/Single Songs",
+    "⪨ Music/Popular",
+    "⪨ Music/Art",
+    "⪨ Music",
+    "⪨ Movies",
+    "covers"
+  ]
+}
