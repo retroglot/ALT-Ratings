@@ -11,14 +11,13 @@
             "id": "5430fa61651cd64d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "⪨ Music/Popular/Ultimate Sacrifice.md",
-                "mode": "source",
-                "source": false
+                "file": "Album Wall.base",
+                "viewName": "Album Wall"
               },
-              "icon": "lucide-file",
-              "title": "Ultimate Sacrifice"
+              "icon": "lucide-layout-grid",
+              "title": "Album Wall"
             }
           }
         ]
@@ -179,19 +178,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "516e57bab7f86e53",
+  "active": "5430fa61651cd64d",
   "lastOpenFiles": [
+    "⪨ Music/Popular/🔵Lotus.md",
+    "⪨ Music/Popular/Ultimate Sacrifice.md",
     "Album Wall.base",
     "⪨ Music/Popular/Garlics & Onions.md",
     "⪨ Music/Art/Haydn - String Quartets.md",
     "⪨ Music/Popular/Saviors.md",
     "⪨ Music/Popular/🔵Stupid Pop Songs.md",
-    "⪨ Music/Popular/🔵Lotus.md",
     "⪨ Music/Popular/🔵危险世界.md",
     "⪨ Music/Art/Xenakis Ensemble Music, Vol. 1.md",
     "⪨ Music/Popular/才二十三.md",
     "covers/Lotus.png",
-    "⪨ Music/Popular/Ultimate Sacrifice.md",
     "⪨ Music/Popular/🔵Ethereal Horizons.md",
     "⪨ Music/Popular/🔵Fly from Here - Return Trip.md",
     "⪨ Music/Popular/🔵八度空间.md",
