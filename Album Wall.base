@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("/")
+views:
+  - type: cards
+    name: Album Wall
+    filters:
+      and:
+        - file.inFolder("⪨ Music/Popular")
+        - file.name != "{示例}"
+        - file.inFolder("⪨ Music/Art")
+    order:
+      - Album
+      - Artist
+      - Rating
+    cardSize: 150
+    image: note.cover
