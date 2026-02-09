@@ -1,5 +1,6 @@
 ---
 cover:
+  - "[[Xenakis - Ensemble Music, Vol. 1.png]]"
 Album: "Xenakis: Ensemble Music, Vol. 1"
 Label: Mode Records
 Rating: ⭐⭐⭐

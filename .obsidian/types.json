@@ -5,6 +5,7 @@
     "tags": "tags",
     "Album": "text",
     "cover": "multitext",
-    "Artist": "multitext"
+    "Artist": "multitext",
+    "Performer": "multitext"
   }
 }

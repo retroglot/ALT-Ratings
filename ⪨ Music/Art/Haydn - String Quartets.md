@@ -5,7 +5,7 @@ Album: "Haydn: String Quartets"
 Label: Deutsche Grammophon
 Rating: ⭐⭐⭐⭐
 Composer: Franz Joseph Haydn
-Ensemble: Amadeus Quartet
+Performer: Amadeus Quartet
 Year: "2004"
 ---
 ---
