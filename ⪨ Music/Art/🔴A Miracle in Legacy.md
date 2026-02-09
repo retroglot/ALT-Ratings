@@ -7,6 +7,8 @@ Rating: ⭐⭐
 Performer:
   - " Joshua Conyers"
   - Chelsea Whitaker
+Artist:
+  - Joshua Conyers
 ---
 ---
 

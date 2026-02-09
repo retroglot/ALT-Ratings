@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⪨ Music/Art/Haydn - String Quartets.md",
+                "file": "⪨ Music/Art/🔴A Miracle in Legacy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haydn - String Quartets"
+              "title": "🔴A Miracle in Legacy"
             }
           }
         ]
@@ -31,13 +31,14 @@
             "id": "777264642c3bcf23",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Album Wall.base",
-                "viewName": "Album Wall"
+                "file": "⪨ Music/Popular/🔵Purple Rain.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Album Wall"
+              "icon": "lucide-file",
+              "title": "🔵Purple Rain"
             }
           }
         ]
@@ -196,10 +197,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "777264642c3bcf23",
+  "active": "5430fa61651cd64d",
   "lastOpenFiles": [
-    "⪨ Music/Art/🔴A Miracle in Legacy.md",
+    "⪨ Music/Art/🔵A Prayer for Deliverance.md",
+    "⪨ Music/Popular/🔵Purple Rain.md",
     "⪨ Music/Art/Haydn - String Quartets.md",
+    "covers/Purple Rain.png",
+    "⪨ Music/Popular/未命名.md",
+    "Album Wall.base",
+    "⪨ Music/Art/🔴A Miracle in Legacy.md",
+    "🔵示例🔵.md",
     "covers/A Miracle in Legacy.png",
     "Pasted image 20260209122431.png",
     "⪨ Music/Popular/🔴危险世界.md",
@@ -207,7 +214,6 @@
     "⪨ Music/Popular/🔵The Fall-Off.md",
     "⪨ Music/Art/Xenakis Ensemble Music, Vol. 1.md",
     "covers/Xenakis - Ensemble Music, Vol. 1.png",
-    "Album Wall.base",
     "⪨ Music/Soundtrack/🔵Midnight Express.md",
     "⪨ Music/Soundtrack",
     "⪨ Music/Popular/🔵Lotus.md",
@@ -222,23 +228,19 @@
     "⪨ Music/Popular/🔵Fly from Here - Return Trip.md",
     "⪨ Music/Popular/🔵八度空间.md",
     "covers/SAVIORS.png",
-    "🔵示例🔵.md",
     "⪨ Music/Popular/橙月.md",
     "⪨ Music/Popular/🔵Siembra.md",
-    "⪨ Music/Popular/未命名.md",
     "covers/才二十三.png",
     "⪨ Music/Popular/2014 Forest Hills Drive.md",
     "⪨ Music/Popular/范特西.md",
     "covers/危险世界.png",
     "⪨ Music/Single Songs/Dance The Pain Away.md",
-    "⪨ Music/Single Songs/Talk To Me.md",
     "⪨ Music/Single Songs",
     "⪨ Music",
     "⪨ Series",
     "covers/Haydn - String Quartets - Amadeus Quartet.png",
     "⪨ Movies",
     "covers/Stupid Pop Songs.png",
-    "covers/Fly from Here - Return Trip.png",
     "封面/八度空间.png.crdownload",
     "封面/范特西.png.crdownload",
     "covers",
