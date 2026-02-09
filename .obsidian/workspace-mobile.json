@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⪨ Music/Popular/🔵危险世界.md",
+                "file": "🔵The Fall-Off.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔵危险世界"
+              "title": "🔵The Fall-Off"
             }
           }
         ]
@@ -85,8 +85,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "添加笔记属性"
+          "icon": "lucide-ghost",
+          "title": "all-properties"
         }
       },
       {
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "⪨ Music/Popular/🔵危险世界.md",
+            "file": "⪨ Music/Popular/🔵西游记.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "⪨ Music/Popular/🔵危险世界.md",
+            "file": "⪨ Music/Popular/🔵西游记.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "⪨ Music/Popular/🔵危险世界.md",
+            "file": "⪨ Music/Popular/🔵西游记.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -181,33 +181,33 @@
   },
   "active": "03de9aa325d7d3fe",
   "lastOpenFiles": [
+    "Album Wall.base",
+    "🔵The Fall-Off.md",
+    "⪨ Music/Soundtrack/🔵Midnight Express.md",
+    "⪨ Music/Popular/橙月.md",
+    "⪨ Music/Soundtrack",
+    "⪨ Music/Popular/🔵西游记.md",
+    "⪨ Music/Popular/🔴危险世界.md",
     "⪨ Music/Popular/🔵八度空间.md",
+    "⪨ Music/Popular/🔵Lotus.md",
     "README.md",
     "⪨ Series/(2025) 자백의 대가.md",
-    "Album Wall.base",
     "⪨ Music/Art/Debussy_Suite_Bergamasque.md",
     "🔵示例🔵.md",
     "⪨ Music/Single Songs/Talk To Me.md",
     "⪨ Music/Single Songs/Dance The Pain Away.md",
-    "⪨ Music/Popular/🔵危险世界.md",
     "⪨ Music/Popular/🔵Stupid Pop Songs.md",
     "⪨ Music/Popular/🔵Siembra.md",
-    "⪨ Music/Popular/🔵Lotus.md",
     "⪨ Music/Popular/🔵Fly from Here - Return Trip.md",
     "⪨ Music/Popular/🔵Ethereal Horizons.md",
     "⪨ Music/Popular/🔵A Night at the Opera.md",
     "⪨ Music/Popular/范特西.md",
-    "⪨ Music/Popular/橙月.md",
     "⪨ Music/Popular/才二十三.md",
     "⪨ Music/Popular/幸福城市里总有人不幸福.md",
     "⪨ Music/Popular/Woodland.md",
     "⪨ Music/Popular/Undercurrent.md",
     "⪨ Music/Popular/Ultimate Sacrifice.md",
     "⪨ Music/Popular/Saviors.md",
-    "⪨ Music/Popular/Praise A Lord Who Chews But Which Does Not Consume; (Or Simply, Hot Between Worlds).md",
-    "⪨ Music/Popular/No. Eleven.md",
-    "⪨ Music/Popular/Last Winter.md",
-    "⪨ Music/Popular/Garlics & Onions.md",
     "covers/范特西.png",
     "covers/橙月.png",
     "covers/才二十三.png",

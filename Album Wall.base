@@ -10,6 +10,8 @@ views:
         - or:
             - file.inFolder("⪨ Music/Art")
             - file.inFolder("⪨ Music/Popular")
+            - file.inFolder("⪨ Music/Single Songs")
+            - file.inFolder("⪨ Music/Soundtrack")
         - "!Album.isEmpty()"
     order:
       - Album
