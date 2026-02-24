@@ -6,6 +6,7 @@
     "Album": "text",
     "cover": "multitext",
     "Artist": "multitext",
-    "Performer": "multitext"
+    "Performer": "multitext",
+    "Composer": "multitext"
   }
 }
