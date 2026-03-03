@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "59018bf6eb38da09",
+        "id": "dd653546eff7b253",
         "type": "tabs",
         "children": [
           {
-            "id": "5430fa61651cd64d",
+            "id": "4ca42320711d8734",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⪨ Music/Single Songs/湖泊.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "湖泊"
+              "title": "新标签页"
             }
           }
         ]
@@ -177,10 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5430fa61651cd64d",
+  "active": "a198cc0b46cbdd24",
   "lastOpenFiles": [
-    "⪨ Music/Single Songs/Dance The Pain Away.md",
+    "乐器博物馆 × 上海消防.md",
+    "未命名.md",
     "⪨ Music/Single Songs/湖泊.md",
+    "⪨ Music/Single Songs/Dance The Pain Away.md",
     "⪨ Series/(2009) Criminal Minds S05.md",
     "⪨ Music/Popular/🔵The Romantic.md",
     "⪨ Music/Popular/🔵The Land Is Inhospitable and So Are We.md",
@@ -205,8 +203,6 @@
     "covers/21st Century Liability.png",
     "⪨ Music/Popular/🔴危险世界.md",
     "covers/YUNGBLUD.png",
-    "⪨ Movies/🔵Leaving Neverland.md",
-    "⪨ Movies/🔵芳华.md",
     "covers/Purple Rain.png",
     "Album Wall.base",
     "covers/A Miracle in Legacy.png",
