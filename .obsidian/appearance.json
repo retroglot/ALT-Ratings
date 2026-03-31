@@ -1,7 +1,10 @@
 {
   "enabledCssSnippets": [
     "1",
-    "Album View Opitimized"
+    "Album View Opitimized",
+    "Border"
   ],
-  "cssTheme": "Border"
+  "cssTheme": "Border",
+  "showRibbon": true,
+  "showViewHeader": true
 }
