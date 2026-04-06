@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "2585cfbb7c1d3886",
+    "id": "dccc1d413443f664",
     "type": "split",
     "children": [
       {
-        "id": "dd653546eff7b253",
+        "id": "a922f895c05d3f38",
         "type": "tabs",
         "children": [
           {
-            "id": "4ca42320711d8734",
+            "id": "529c0677151fe68e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "⪨ Music/Popular/🔵Stupid Pop Songs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "🔵Stupid Pop Songs"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "caab905a6a1f75d1",
+    "id": "b1fb6066377fad36",
     "type": "split",
     "children": [
       {
-        "id": "bb1e5d4cca9baca5",
+        "id": "307ab98c28bc763c",
         "type": "tabs",
         "children": [
           {
-            "id": "a198cc0b46cbdd24",
+            "id": "f3657da4ad59924c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "aa0a0c77f6b4f843",
+            "id": "c743af9c1c8df7a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "d0b0d5527f536e1e",
+            "id": "5899bec3f12771db",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,22 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.50152587890625
+    "width": 300
   },
   "right": {
-    "id": "91cd1b370b424af1",
+    "id": "a1b6b74b773dee34",
     "type": "split",
     "children": [
       {
-        "id": "91364899b77c2c89",
+        "id": "2b41dc2617c06351",
         "type": "tabs",
         "children": [
           {
-            "id": "ef17e9de84b0e3bc",
+            "id": "0499cf1567129f8d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "⪨ Music/Popular/🔵Stupid Pop Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +104,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "🔵Stupid Pop Songs 的反向链接列表"
             }
           },
           {
-            "id": "7b295f934adf8d41",
+            "id": "d0dd373cf6d2c816",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +121,7 @@
             }
           },
           {
-            "id": "394d1b69af649719",
+            "id": "ea722cf02620f649",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,21 +136,22 @@
             }
           },
           {
-            "id": "4412c3ba675a20e5",
+            "id": "cc31de4dca15b3d8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "⪨ Music/Popular/🔵Stupid Pop Songs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "🔵Stupid Pop Songs 的大纲"
             }
           },
           {
-            "id": "516e57bab7f86e53",
+            "id": "f1ad32fd71b97cc5",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,63 +169,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "516e57bab7f86e53",
+  "active": "cc31de4dca15b3d8",
   "lastOpenFiles": [
-    "未命名.md",
-    "乐器博物馆 × 上海消防.md",
-    "⪨ Music/Single Songs/湖泊.md",
-    "⪨ Music/Single Songs/Dance The Pain Away.md",
-    "⪨ Series/(2009) Criminal Minds S05.md",
-    "⪨ Music/Popular/🔵The Romantic.md",
+    "⪨ Music/Popular/🔵Stupid Pop Songs.md",
+    "⪨ Music/Popular/🔵The Fall-Off.md",
     "⪨ Music/Popular/🔵The Land Is Inhospitable and So Are We.md",
-    "🔵示例🔵.md",
-    "⪨ Music/Art/Pascal Rogé plays French Works.md",
-    "⪨ Music/Art/Haydn - String Quartets.md",
-    "⪨ Music/Art/Fauré Complete Works for Violin & Piano.md",
-    "⪨ Music/Art/Xenakis Ensemble Music, Vol. 1.md",
-    "⪨ Music/Art/Schubert String Quartet No. 14 Death and the Maiden - Beethoven String Quartet No. 11 Quartetto serioso.md",
-    "⪨ Music/Art/Schubert Piano Quintet in A Major, D. 667 The Trout & String Quartet No.14 in D Minor, D. 810 Death and the Maiden Quartet.md",
-    "⪨ Music/Art/Fauré Cello Sonatas Nos. 1 & 2; Elegy; Sicilienne etc..md",
-    "⪨ Music/Art/Debussy_Suite_Bergamasque.md",
-    "⪨ Music/Art/Brahms_Itzhak_Perlman_Berliner_Philharmoniker_Daniel_Barenboim_Violinkonzert.md",
-    "⪨ Music/Art/And Nothing Remains the Same.md",
-    "⪨ Music/Art/🔴A Miracle in Legacy.md",
-    "⪨ Music/Art/🔵A Prayer for Deliverance.md",
-    "⪨ Series/(2010) Criminal Minds S06.md",
-    "⪨ Music/Popular/🔵西游记.md",
-    "⪨ Series/(2025) 자백의 대가.md",
-    "⪨ Music/Popular/🔵21st Century Liability.md",
-    "⪨ Music/Popular/YUNGBLUD.md",
-    "covers/21st Century Liability.png",
+    "⪨ Music/Popular/🔴八度空间.md",
     "⪨ Music/Popular/🔴危险世界.md",
-    "covers/YUNGBLUD.png",
-    "covers/Purple Rain.png",
-    "Album Wall.base",
-    "covers/A Miracle in Legacy.png",
-    "Pasted image 20260209122431.png",
-    "covers/Xenakis - Ensemble Music, Vol. 1.png",
-    "⪨ Music/Soundtrack",
-    "covers/Lotus.png",
-    "covers/SAVIORS.png",
-    "covers/才二十三.png",
-    "covers/危险世界.png",
-    "⪨ Music/Single Songs",
-    "⪨ Music",
+    "🔵示例🔵.md",
+    "未命名.base",
+    "⪨ Series/(2010) Criminal Minds S06.md",
+    "⪨ Series/(2025) 자백의 대가.md",
+    "⪨ Series/(2009) Criminal Minds S05.md",
     "⪨ Series",
+    "⪨ Music/Soundtrack/🔵Midnight Express.md",
+    "⪨ Music/Single Songs/湖泊.md",
+    "⪨ Music/Single Songs/Talk To Me.md",
+    "⪨ Music/Single Songs/Dance The Pain Away.md",
+    "⪨ Music/Popular/🔵西游记.md",
+    "⪨ Music/Popular/🔵The Romantic.md",
+    "⪨ Music/Popular/🔵Siembra.md",
+    "⪨ Music/Popular/🔵Purple Rain.md",
+    "⪨ Music/Popular/🔵Lotus.md",
+    "⪨ Music/Popular/🔵Fly from Here - Return Trip.md",
+    "⪨ Music/Popular/🔵Ethereal Horizons.md",
+    "⪨ Music/Popular/🔵A Night at the Opera.md",
+    "⪨ Music/Popular/🔵21st Century Liability.md",
+    "⪨ Music/Popular/范特西.md",
+    "⪨ Music/Popular/橙月.md",
+    "⪨ Music/Popular/才二十三.md",
+    "⪨ Music/Popular/幸福城市里总有人不幸福.md",
+    "⪨ Music/Soundtrack",
+    "⪨ Music/Single Songs",
+    "⪨ Music/Popular",
+    "⪨ Music/Art",
+    "⪨ Music",
     "⪨ Movies",
-    "封面/八度空间.png.crdownload",
-    "封面/范特西.png.crdownload",
+    "covers/范特西.png",
+    "covers/橙月.png",
+    "covers/才二十三.png",
+    "covers/幸福城市里总有人不幸福.png",
+    "covers/危险世界.png",
+    "covers/八度空间.png",
+    "covers/YUNGBLUD.png",
+    "covers/Xenakis - Ensemble Music, Vol. 1.png",
+    "covers/Woodland.png",
+    "covers/Undercurrent.png",
     "covers",
-    "艺术法概论.pdf"
+    "Album Wall.base"
   ]
 }
