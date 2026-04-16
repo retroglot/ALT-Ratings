@@ -24,7 +24,7 @@ Label: Geffen [环球音乐]
 | 6.8 | Anarchist                     |       |
 | 7.2 | I Love You, Will You Marry Me |       |
 | 7.2 | Polygraph Eyes                |       |
-|     | Kill Somebody                 |       |
+| 7.1 | Kill Somebody                 |       |
 |     | California                    |       |
 |     | 21st Century Liability        |       |
 
