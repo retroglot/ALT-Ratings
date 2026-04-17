@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a922f895c05d3f38",
+        "id": "b8a3d1b0499679ad",
         "type": "tabs",
         "children": [
           {
-            "id": "529c0677151fe68e",
+            "id": "2adf21c99c356d7e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "covers/未来.png"
-              },
-              "icon": "lucide-image",
-              "title": "未来"
-            }
-          },
-          {
-            "id": "65337142af095d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⪨ Music/Popular/🔵未来.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🔵未来"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3657da4ad59924c",
+  "active": "2adf21c99c356d7e",
   "lastOpenFiles": [
-    "covers/未来.png",
     "⪨ Music/Popular/🔵未来.md",
+    "covers/未来.png",
     "⪨ Music/Popular/🔵21st Century Liability.md",
     "⪨ Music/Popular/🔴危险世界.md",
     "⪨ Music/Popular/🔴八度空间.md",
