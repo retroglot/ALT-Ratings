@@ -13,7 +13,7 @@ Rating:
 
 | 评分  | 曲名                                  | 备注  |
 | :-- | :---------------------------------- | :--: |
-|     | Death on Two Legs (Dedicated to...) |     |
+| 7.4 | Death on Two Legs (Dedicated to...) |     |
 | 7.5 | Lazing on a Sunday Afternoon        |     |
 |     | I'm in Love with My Car             |     |
 |     | You're My Best Friend               |     |
