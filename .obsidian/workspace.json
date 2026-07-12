@@ -11,10 +11,14 @@
             "id": "405affaf9f3d14d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "⪨ Series/(2009) Criminal Minds S05.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "(2009) Criminal Minds S05"
             }
           }
         ]
@@ -137,17 +141,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⪨ Music/Popular/🔵未来.md",
+                "file": "⪨ Series/(2009) Criminal Minds S05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🔵未来 的大纲"
+              "title": "(2009) Criminal Minds S05 的大纲"
             }
           },
           {
-            "id": "f1ad32fd71b97cc5",
+            "id": "678cddd34a485e3a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -175,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1ad32fd71b97cc5",
+  "active": "cc31de4dca15b3d8",
   "lastOpenFiles": [
+    "⪨ Series/(2009) Criminal Minds S05.md",
+    "⪨ Series/(2024) Ludwig S01.md",
+    "⪨ Series/(2024) Ludwig S01",
     "conflict-files-obsidian-git.md",
     "⪨ Music/Popular/🔵Interstellar Experience.md",
     "⪨ Music/Popular/🔵未来.md",
@@ -202,12 +209,10 @@
     "未命名.base",
     "⪨ Series/(2010) Criminal Minds S06.md",
     "⪨ Series/(2025) 자백의 대가.md",
-    "⪨ Series/(2009) Criminal Minds S05.md",
     "⪨ Series",
     "⪨ Music/Soundtrack/🔵Midnight Express.md",
     "⪨ Music/Single Songs/湖泊.md",
     "⪨ Music/Single Songs/Talk To Me.md",
-    "⪨ Music/Single Songs/Dance The Pain Away.md",
     "⪨ Music/Soundtrack",
     "⪨ Music/Single Songs",
     "⪨ Music/Popular",
@@ -221,7 +226,6 @@
     "covers/危险世界.png",
     "covers/八度空间.png",
     "covers/YUNGBLUD.png",
-    "covers/Xenakis - Ensemble Music, Vol. 1.png",
-    "covers"
+    "covers/Xenakis - Ensemble Music, Vol. 1.png"
   ]
 }
