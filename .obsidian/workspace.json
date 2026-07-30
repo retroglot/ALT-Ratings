@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c4dc568dee431862",
+        "id": "f7728f5860ae6674",
         "type": "tabs",
         "children": [
           {
-            "id": "405affaf9f3d14d7",
+            "id": "6d088013c23efae5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "⪨ Series/(2013) Brooklyn Nine-Nine S01.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "(2013) Brooklyn Nine-Nine S01"
             }
           }
         ]
@@ -179,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "405affaf9f3d14d7",
+  "active": "6d088013c23efae5",
   "lastOpenFiles": [
+    "🔵示例🔵.md",
+    "⪨ Series/⭕示例⭕.md",
+    "⪨ Music/Popular/🔴八度空间.md",
     "⪨ Music/Popular/🔵Evangelic Girl is a Gun.md",
     "covers/Evangelic Girl is a Gun.png",
     "⨇ Books/《我将宇宙随身携带：佩索阿诗集》.md",
@@ -188,7 +191,6 @@
     "⨇ Books/《文化大转型》.md",
     "⪨ Series/(2013) Brooklyn Nine-Nine S01.md",
     "⪨ Series/(2010) Criminal Minds S06.md",
-    "⪨ Series/⭕示例⭕.md",
     "⪨ Movies/🔵Real Steel.md",
     "⪨ Series/(2024) Ludwig S01.md",
     "⪨ Movies/🔵芳华.md",
@@ -207,7 +209,6 @@
     "⪨ Music/Popular/🔵未来.md",
     "⪨ Music/Art/Schubert - String Quartets Nos. 13 & 14.md",
     "⪨ Music/Art/Schubert Piano Quintet in A Major, D. 667 The Trout & String Quartet No.14 in D Minor, D. 810 Death and the Maiden Quartet.md",
-    "⪨ Music/Art/Schubert String Quartet No. 14 Death and the Maiden - Beethoven String Quartet No. 11 Quartetto serioso.md",
     "covers/Schubert - String Quartets Nos. 13 & 14.png",
     "⨇ Books",
     "⪨ Series/未命名",
