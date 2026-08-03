@@ -1,6 +1,6 @@
 ---
 cover:
-  - 
+  - "[[Midnight Express.png]]"
 Album: Midnight Express
 Artist:
   - Giorgio Moroder

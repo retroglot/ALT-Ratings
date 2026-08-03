@@ -1,6 +1,6 @@
 ---
 cover:
-  - 
+  - "[[Replica.png]]"
 Album: Replica
 Artist:
   - Oneohtrix Point Never
@@ -14,8 +14,8 @@ Rating:
 
 | 评分  | 曲名                  | 备注  |
 | --- | ------------------- | :-: |
-| 7.9 | Andro               |     |
-|     | Power Of Persuasion |     |
+| 7.5 | Andro               |     |
+| 7.6 | Power Of Persuasion |     |
 |     | Sleep Dealer        |     |
 |     | Remember            |     |
 |     | Replica             |     |
@@ -27,4 +27,4 @@ Rating:
 
 ---
 
-- 
+- 重复，重复，重复

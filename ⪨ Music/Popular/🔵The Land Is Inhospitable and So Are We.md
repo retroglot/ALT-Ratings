@@ -1,6 +1,6 @@
 ---
 cover:
-  - 
+  - "[[The Land Is Inhospitable and So Are We.png]]"
 Album: The Land Is Inhospitable and So Are We
 Artist:
   - Mitski

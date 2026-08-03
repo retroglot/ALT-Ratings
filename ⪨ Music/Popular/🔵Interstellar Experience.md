@@ -1,6 +1,6 @@
 ---
 cover:
-  - 
+  - "[[Interstellar Experience.png]]"
 Album: Interstellar Experience
 Artist:
   - Assassin

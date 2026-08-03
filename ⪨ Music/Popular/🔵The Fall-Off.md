@@ -1,6 +1,6 @@
 ---
 cover:
-  - 
+  - "[[The Fall-Off.png]]"
 Album: The Fall-Off
 Artist:
   - J. Cole

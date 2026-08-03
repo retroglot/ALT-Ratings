@@ -1,14 +1,14 @@
 ---
 cover:
-  - "[[The Romantic.png]]"
-Album: The Romantic
+  - "[[Big Disgrace.png]]"
+Album: Big Disgrace
 Artist:
-  - Bruno Mars
-Rating: ⭐⭐⭐⭐
+  - Haute & Freddy
+Rating:
 ---
 ---
 
-⭐⭐⭐ - Bruno Mars
+⭐⭐⭐ - 
 
 ---
 
@@ -16,11 +16,11 @@ Rating: ⭐⭐⭐⭐
 | --- | ------------------- | :-: |
 |     |                     |     |
 |     |                     |     |
-| 8.3 | I Just Might        |     |
-|     | God Was Showing Off |     |
 |     |                     |     |
 |     |                     |     |
 |     |                     |     |
+|     |                     |     |
+| 7.4 | Dance The Pain Away |     |
 |     |                     |     |
 |     |                     |     |
 |     |                     |     |

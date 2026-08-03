@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f7728f5860ae6674",
+        "id": "2af67d8967034b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "6d088013c23efae5",
+            "id": "f1d3ffdf5fca2e70",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Album Wall.base",
-                "viewName": "Album Wall"
+                "file": "⪨ Music/Popular/🔵JTW西遊記.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Album Wall"
+              "icon": "lucide-file",
+              "title": "🔵JTW西遊記"
             }
           }
         ]
@@ -40,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -178,52 +181,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d088013c23efae5",
+  "active": "f1d3ffdf5fca2e70",
   "lastOpenFiles": [
     "⪨ Series/(2013) Brooklyn Nine-Nine S01.md",
-    "未命名.base",
+    "⪨ Music/Popular/🔵JTW西遊記.md",
+    "⪨ Music/Popular/🔵Tortoise.md",
+    "⪨ Series/(2009) Criminal Minds S05.md",
+    "⪨ Music/Art/Pascal Rogé plays French Works.md",
+    "Album Wall.base",
+    "⪨ Music/Popular/🔵Big Disgrace.md",
+    "covers/Big Disgrace.png",
+    "⪨ Music/Single Songs/Dance The Pain Away.md",
+    "⪨ Music/Single Songs/湖泊.md",
+    "covers/湖泊.png",
+    "⪨ Music/Soundtrack/🔵Midnight Express.md",
+    "covers/Midnight Express.png",
+    "covers/JTW西遊記.png",
     "⪨ Music/Popular/🔵未来.md",
-    "🔵示例🔵.md",
-    "⪨ Series/⭕示例⭕.md",
-    "⪨ Music/Popular/🔴八度空间.md",
-    "⪨ Music/Popular/🔵Evangelic Girl is a Gun.md",
-    "covers/Evangelic Girl is a Gun.png",
-    "⨇ Books/《我将宇宙随身携带：佩索阿诗集》.md",
-    "⨇ Books/《文化艺术演出市场的经典案例》.md",
-    "⨇ Books/《文化大转型》.md",
-    "⪨ Series/(2010) Criminal Minds S06.md",
-    "⪨ Movies/🔵Real Steel.md",
-    "⪨ Series/(2024) Ludwig S01.md",
-    "⪨ Movies/🔵芳华.md",
-    "⪨ Movies/🔵Leaving Neverland.md",
-    "⪨ Music/Popular/🔵That Total Age.md",
-    "⪨ Music/Art/🔵Haydn - String Quartets.md",
-    "⪨ Music/Art/🔵A Prayer for Deliverance.md",
-    "⪨ Music/Popular/才二十三.md",
-    "⪨ Music/Popular/2014 Forest Hills Drive.md",
-    "⪨ Music/Popular/橙月.md",
+    "covers/未来.png",
+    "⪨ Music/Popular/🔵Replica.md",
+    "未来.png.md",
+    "⪨ Music/Single Songs/Talk To Me.md",
     "⪨ Music/Popular/🔵The Land Is Inhospitable and So Are We.md",
+    "⪨ Music/Popular/🔵The Romantic.md",
+    "covers/The Romantic.png",
+    "covers/The Land Is Inhospitable and So Are We.png",
     "⪨ Music/Popular/🔵The Fall-Off.md",
-    "⪨ Music/Popular/🔵Siembra.md",
+    "covers/The Fall-Off.png",
+    "⪨ Music/Popular/🔵That Total Age.md",
     "⪨ Music/Popular/🔵Stupid Pop Songs.md",
-    "covers/That Total Age.png",
-    "⪨ Music/Art/Schubert - String Quartets Nos. 13 & 14.md",
-    "covers/Schubert - String Quartets Nos. 13 & 14.png",
+    "⪨ Music/Popular/🔵Siembra.md",
+    "covers/Replica.png",
+    "⪨ Music/Popular/🔵Purple Rain.md",
+    "⪨ Music/Popular/🔵Lotus.md",
+    "⪨ Music/Popular/🔵Interstellar Experience.md",
+    "covers/Interstellar Experience.png",
+    "⪨ Music/Popular/🔵Fly from Here - Return Trip.md",
+    "⪨ Music/Popular/🔵Evangelic Girl is a Gun.md",
+    "⪨ Music/Popular/🔵Ethereal Horizons.md",
+    "⪨ Music/Popular/🔵A Night at the Opera.md",
+    "未命名.base",
     "⨇ Books",
     "⪨ Series/未命名",
     "⪨ Series/(2024) Ludwig S01",
-    "covers/Tortoise.png",
-    "covers/未来.png",
-    "Album Wall.base",
     "⪨ Series",
     "⪨ Music/Soundtrack",
     "⪨ Music/Single Songs",
     "⪨ Music/Popular",
-    "⪨ Music/Art",
-    "covers/范特西.png",
-    "covers/橙月.png",
-    "covers/才二十三.png",
-    "covers/幸福城市里总有人不幸福.png",
-    "covers/危险世界.png"
+    "⪨ Music/Art"
   ]
 }
