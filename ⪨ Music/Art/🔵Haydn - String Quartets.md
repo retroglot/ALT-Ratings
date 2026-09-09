@@ -16,9 +16,9 @@ Year: "2004"
 
 | 评分   | **曲名**：乐章                                                                    |     备注      |
 | ---- | ---------------------------------------------------------------------------- | :---------: |
-| ⭐⭐   | **The Seven Last Words Of Our Saviour On The Cross Op. 51, Hob. III: 50-56** |   disc 1    |
+| ⭐⭐⭐  | **The Seven Last Words Of Our Saviour On The Cross Op. 51, Hob. III: 50-56** |   disc 1    |
 | 7.0  | Ⅰ. Introduzione (Maestoso ed Adagio)                                         |             |
-| 6.5  | Ⅱ. Sonata Ⅰ (Largo)                                                          |             |
+| 6.7  | Ⅱ. Sonata Ⅰ (Largo)                                                          |             |
 | 6.5  | Ⅲ. Sonata Ⅱ (Grave e Cantabile)                                              |             |
 | 6.3  | Ⅳ. Sonata Ⅲ (Grave)                                                          |             |
 |      | Ⅴ. Sonata Ⅳ (Largo)                                                          |             |

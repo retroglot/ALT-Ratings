@@ -16,7 +16,7 @@ Rating:
 | --- | ------------------- | :-: |
 | 7.5 | Andro               |     |
 | 7.6 | Power Of Persuasion |     |
-|     | Sleep Dealer        |     |
+| 7.6 | Sleep Dealer        |     |
 |     | Remember            |     |
 |     | Replica             |     |
 |     | Nassau              |     |
