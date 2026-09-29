@@ -5,6 +5,7 @@ Album: Tortoise
 Artist:
   - Tortoise
 Rating:
+Label: Thrill Jockey Records
 ---
 ---
 
@@ -14,8 +15,8 @@ Rating:
 
 | 评分  | 曲名                       | 备注  |
 | --- | ------------------------ | :-: |
-|     | Magnet Pulls Through     |     |
-|     | Night Air                |     |
+| /   | Magnet Pulls Through     |     |
+| 7.3 | Night Air                |     |
 |     | Ry Cooder                |     |
 |     | Onions Wrapped In Rubber |     |
 |     | Tin Cans & Twine         |     |
