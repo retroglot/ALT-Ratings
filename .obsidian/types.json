@@ -7,6 +7,7 @@
     "cover": "multitext",
     "Artist": "multitext",
     "Performer": "multitext",
-    "Composer": "multitext"
+    "Composer": "multitext",
+    "编剧": "multitext"
   }
 }
