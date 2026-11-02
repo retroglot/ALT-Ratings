@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⪨ Music/Popular/才二十三.md",
+                "file": "⨇ Books/《动物园》.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "才二十三"
+              "title": "《动物园》"
             }
           }
         ],
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⪨ Series/(2025) 자백의 대가.md",
+                "file": "⨇ Books/《动物园》.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "(2025) 자백의 대가 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -196,8 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88dacdf1572f55ae",
+  "active": "678cddd34a485e3a",
   "lastOpenFiles": [
+    "⨇ Books/《认知锥》.md",
+    "⨇ Books/《文化大转型》.md",
+    "⨇ Books/《动物园》.md",
+    "⪨ Music/Popular/才二十三.md",
     "⪨ Music/Popular/橙月.md",
     "⪨ Music/Popular/🔵未来.md",
     "⪨ Music/Popular/🔵幾乎是愛情.md",
@@ -219,14 +223,10 @@
     "⪨ Music/Popular/🔵Tortoise.md",
     "⪨ Music/Popular/🔵The Romantic.md",
     "⨇ Books/《卓越基因》.md",
-    "⨇ Books/《认知锥》.md",
     "⨇ Books/《我将宇宙随身携带：佩索阿诗集》.md",
     "⨇ Books/《文化艺术演出市场的经典案例》.md",
-    "⨇ Books/《文化大转型》.md",
     "🔵示例🔵.md",
-    "⪨ Music/Popular/🔵Ten Summoner's Tales.md",
     "covers/Ten Summoner's Tales.png",
-    "⪨ Music/Popular/🔵That Total Age.md",
     "Album Wall.base",
     "covers/JTW西遊記.png",
     "⨇ Books/未命名",
