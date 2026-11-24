@@ -11,14 +11,15 @@
             "id": "f1d3ffdf5fca2e70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "⪨ Music/Popular/🔴八度空间.md",
-                "mode": "source",
-                "source": false
+                "aFile": "⨇ Books/《卓越基因》.md",
+                "bFile": "⨇ Books/《卓越基因》.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "🔴八度空间"
+              "icon": "diff",
+              "title": "Diff: 《卓越基因》  (Index)"
             }
           }
         ]
@@ -80,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a1b6b74b773dee34",
@@ -183,8 +184,9 @@
   },
   "active": "f1d3ffdf5fca2e70",
   "lastOpenFiles": [
-    "⪨ Music/Popular/🔴危险世界.md",
+    "⨇ Books/《动物园》.md",
     "⪨ Music/Popular/🔴八度空间.md",
+    "⪨ Music/Popular/🔴危险世界.md",
     "⪨ Music/Popular/A Night at the Opera.md",
     "⪨ Music/Popular/🔵未来.md",
     "⪨ Music/Popular/🔴JTW西遊記.md",
@@ -197,7 +199,6 @@
     "⪨ Series/(2009) Criminal Minds S05.md",
     "⪨ Series/🔵(2025) 자백의 대가.md",
     "⪨ Series/🔵(2024) Ludwig S01.md",
-    "⨇ Books/《动物园》.md",
     "⨇ Books/《认知锥》.md",
     "⨇ Books/《文化大转型》.md",
     "⪨ Music/Popular/才二十三.md",
