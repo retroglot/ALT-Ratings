@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⪨ Movies/🔵(2019) Leaving Neverland.md",
+                "file": "⪨ Music/Popular/🔴八度空间.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔵(2019) Leaving Neverland"
-            }
-          },
-          {
-            "id": "88dacdf1572f55ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⪨ Series/🔵(2013) Brooklyn Nine-Nine S01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🔵(2013) Brooklyn Nine-Nine S01"
+              "title": "🔴八度空间"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⪨ Series/🔵(2013) Brooklyn Nine-Nine S01.md",
+                "file": "⪨ Movies/🔵(2019) Leaving Neverland.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,8 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88dacdf1572f55ae",
+  "active": "f1d3ffdf5fca2e70",
   "lastOpenFiles": [
+    "⪨ Music/Popular/🔴危险世界.md",
+    "⪨ Music/Popular/🔴八度空间.md",
+    "⪨ Music/Popular/A Night at the Opera.md",
+    "⪨ Music/Popular/🔵未来.md",
+    "⪨ Music/Popular/🔴JTW西遊記.md",
+    "⪨ Music/Popular/🔵21st Century Liability.md",
+    "⪨ Music/Popular/🔵幾乎是愛情.md",
+    "⪨ Movies/🔵(2019) Leaving Neverland.md",
+    "file:C:/Users/retro/Documents/idols-of-the-tribe/book.md",
     "⪨ Series/🔵(2010) Criminal Minds S06.md",
     "⪨ Series/🔵(2013) Brooklyn Nine-Nine S01.md",
     "⪨ Series/(2009) Criminal Minds S05.md",
@@ -208,14 +202,8 @@
     "⨇ Books/《文化大转型》.md",
     "⪨ Music/Popular/才二十三.md",
     "⪨ Music/Popular/橙月.md",
-    "⪨ Music/Popular/🔵未来.md",
-    "⪨ Music/Popular/🔵幾乎是愛情.md",
-    "⪨ Music/Popular/🔴危险世界.md",
-    "⪨ Music/Popular/🔴JTW西遊記.md",
-    "⪨ Music/Popular/🔴八度空间.md",
     "⪨ Movies/(1996) Trainspotting.md",
     "⪨ Movies/(2011) Real Steel.md",
-    "⪨ Movies/🔵(2019) Leaving Neverland.md",
     "⪨ Movies/🔵(2017) 芳华.md",
     "⪨ Movies/(2026) Resident Evil.md",
     "௹ Wares/麒麟一番榨黑啤.md",
@@ -223,9 +211,6 @@
     "covers/麒麟一番榨黑啤.png",
     "௹ Wares",
     "⪨ Series/⭕示例⭕.md",
-    "⪨ Music/Popular/🔵Tortoise.md",
-    "⪨ Music/Popular/🔵The Romantic.md",
-    "⨇ Books/《卓越基因》.md",
     "covers/Ten Summoner's Tales.png",
     "Album Wall.base",
     "covers/JTW西遊記.png",
