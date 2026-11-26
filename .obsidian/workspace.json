@@ -11,14 +11,14 @@
             "id": "e9a0369731c8e6f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "⪨ Music/Popular/🔵Evangelic Girl is a Gun.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "🔵Evangelic Girl is a Gun"
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Working Tree)"
             }
           }
         ]
@@ -183,7 +183,13 @@
   },
   "active": "e9a0369731c8e6f8",
   "lastOpenFiles": [
+    "⪨ Music/Popular/A Night at the Opera.md",
+    "⪨ Music/Popular/Evangelic Girl is a Gun.md",
+    "⪨ Music/Popular/🔴八度空间.md",
     "⪨ Music/Popular/🔵Fly from Here - Return Trip.md",
+    "⪨ Music/Popular/🔵Evangelic Girl is a Gun.md",
+    "⪨ Music/Popular/未来.md",
+    "covers/Pascal Rogé plays French Works.png",
     "⪨ Music/Popular/🔵Interstellar Experience.md",
     "⪨ Music/Popular/🔵Purple Rain.md",
     "⪨ Music/Popular/🔵Lotus.md",
@@ -195,7 +201,6 @@
     "⪨ Series/⭕示例⭕.md",
     "⪨ Series/🔵(2013) Brooklyn Nine-Nine S01.md",
     "⪨ Series/帮我看看这份报价是否合理？.md",
-    "⪨ Music/Popular/A Night at the Opera.md",
     "⨇ Books/《卓越基因》.md",
     "⨇ Books/《我将宇宙随身携带：佩索阿诗集》.md",
     "⨇ Books/《文化艺术演出市场的经典案例》.md",
@@ -205,10 +210,6 @@
     "⪨ Series/🔵(2025) 자백의 대가.md",
     "⪨ Series/🔵(2024) Ludwig S01.md",
     "⪨ Music/Popular/才二十三.md",
-    "⪨ Music/Popular/橙月.md",
-    "⪨ Music/Popular/🔵未来.md",
-    "⪨ Music/Popular/🔵幾乎是愛情.md",
-    "⪨ Music/Popular/🔴危险世界.md",
     "covers/麒麟一番榨黑啤.png",
     "௹ Wares",
     "covers/Ten Summoner's Tales.png",
@@ -221,7 +222,6 @@
     "covers/Midnight Express.png",
     "covers/未来.png",
     "covers/The Romantic.png",
-    "covers/The Land Is Inhospitable and So Are We.png",
     "未命名.base",
     "⨇ Books",
     "⪨ Series/未命名",
