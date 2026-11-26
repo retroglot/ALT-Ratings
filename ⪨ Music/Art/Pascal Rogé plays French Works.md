@@ -1,5 +1,6 @@
 ---
 cover:
+  - "[[Pascal Rogé plays French Works.png]]"
 Album: Pascal Rogé plays French Works
 Label: Decca
 Rating: ⭐⭐⭐⭐
